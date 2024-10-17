@@ -1,0 +1,75 @@
+{
+    "subjects": [
+        {
+            "name": "Math",
+            "lecturer": "Dr. Smith",
+            "room": "Room 101",
+            "time": "10:00 AM",
+            "length": "1 hour"
+        },
+        {
+            "name": "Math",
+            "lecturer": "Dr. Smith",
+            "room": "Room 101",
+            "time": "10:00 AM",
+            "length": "1 hour"
+        },
+        {
+            "name": "Math",
+            "lecturer": "Dr. Smith",
+            "room": "Room 101",
+            "time": "10:00 AM",
+            "length": "1 hour"
+        },
+        {
+            "name": "Math",
+            "lecturer": "Dr. Smith",
+            "room": "Room 101",
+            "time": "10:00 AM",
+            "length": "1 hour"
+        },
+        {
+            "name": "Math",
+            "lecturer": "Dr. Smith",
+            "room": "Room 101",
+            "time": "10:00 AM",
+            "length": "1 hour"
+        },
+        {
+            "name": "Math",
+            "lecturer": "Dr. Smith",
+            "room": "Room 101",
+            "time": "10:00 AM",
+            "length": "1 hour"
+        },
+        {
+            "name": "Math",
+            "lecturer": "Dr. Smith",
+            "room": "Room 101",
+            "time": "10:00 AM",
+            "length": "1 hour"
+        }
+    ],
+    "deadlines": [
+        {
+            "name": "Homework 1",
+            "content": "Math exercises",
+            "date": "2023-10-01"
+        },
+        {
+            "name": "Homework 1",
+            "content": "Math exercises",
+            "date": "2023-10-01"
+        },
+        {
+            "name": "Homework 1",
+            "content": "Math exercises",
+            "date": "2023-10-01"
+        },
+        {
+            "name": "Homework 1",
+            "content": "Math exercises",
+            "date": "2023-10-01"
+        }
+    ]
+}
